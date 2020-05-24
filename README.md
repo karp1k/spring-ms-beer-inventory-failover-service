@@ -19,3 +19,5 @@ related repo's:
 - [brewery-eureka](https://github.com/karp1k/spring-ms-brewery-eureka)
 
 - [brewery-gateway](https://github.com/karp1k/spring-ms-brewery-gateway)
+
+- [brewery-config-server](https://github.com/karp1k/spring-ms-brewery-config-server)
