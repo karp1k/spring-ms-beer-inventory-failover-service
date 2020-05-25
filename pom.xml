@@ -10,12 +10,12 @@
     </parent>
     <groupId>guru.springframework</groupId>
     <artifactId>spring-ms-beer-inventory-failover-service</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>spring-ms-beer-inventory-failover-service</name>
     <description>Beer Inventory Failover Service (Circuit Breaker Pattern)</description>
 
     <properties>
-        <spring-ms-beer-common.version>1.0-SNAPSHOT</spring-ms-beer-common.version>
+        <spring-ms-beer-common.version>1.0.0</spring-ms-beer-common.version>
         <java.version>1.8</java.version>
         <spring-cloud.version>Hoxton.SR4</spring-cloud.version>
         <logstash-logback-encoder.version>6.3</logstash-logback-encoder.version>
